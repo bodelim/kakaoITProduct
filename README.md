@@ -17,6 +17,7 @@
 ![KakaoTalk_20200421_235144544](https://user-images.githubusercontent.com/47922058/79882072-01fd6580-842d-11ea-91b8-2517de1851bd.jpg)
 
 ### 참고
+- 카카오링크를 사용하므로 kakaodeveloper 사이트에서 기본적인 세팅이 필요합니다.
 ```
 function response(room, msg, sender, isGroupChat, replier, imageDB) {
 msg = msg.trim();
